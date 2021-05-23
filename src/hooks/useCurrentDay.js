@@ -10,5 +10,5 @@ export const useCurrentDay = () => {
         'Lördag',
     ]
 
-    return { dayOfWeek: days[day] }
+    return { dayOfWeek: days[day], dayNo: day }
 }
