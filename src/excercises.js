@@ -4,7 +4,7 @@ const excercises = {
     squat: { name: 'knäböj', oneRepMax: 80 },
     pullUp: { name: 'pull ups', oneRepMax: null },
     handlePress: { name: 'hantel press', oneRepMax: null },
-    pushUp: { name: 'aoneRepMaxhävningar', oneRepMax: null },
+    pushUp: { name: 'armhävningar', oneRepMax: null },
     gobletSquat: { name: 'benböj', oneRepMax: null },
     romanianDeadLift: { name: 'rak marklyft', oneRepMax: null },
 }

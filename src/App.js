@@ -21,7 +21,7 @@ function App() {
                               sets={item.sets}
                               repetitions={item.repetitions}
                               weight={item.weight}
-                              type={item.type}
+                              type={item.type || null}
                           />
                       )
                   })
