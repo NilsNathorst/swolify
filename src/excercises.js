@@ -1,5 +1,5 @@
 const excercises = {
-    benchPress: { name: 'bänkpress', oneRepMax: 65 },
+    benchPress: { name: 'bänkpress', oneRepMax: 70 },
     deadLift: { name: 'marklyft', oneRepMax: 60 },
     squat: { name: 'knäböj', oneRepMax: 60 },
     pullUp: { name: 'pull ups', oneRepMax: null },
